@@ -11,7 +11,7 @@ Weather App is a simple web application that allows users to check the current w
 ## Preview
 
 
-![Weather App Preview](preview.png)
+![Weather App Preview](Screenshot(931).png)
 
 ## Installation
 
